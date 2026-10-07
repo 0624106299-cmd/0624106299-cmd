@@ -16,4 +16,4 @@ I'm a student interested in technology, coding, and business
 - Technology
 - Music
 - Flamenco
-- Movies
+- Movies 
