@@ -1,16 +1,19 @@
-## Hi there 👋
+## About Me
+I'm a student interested in technology, coding, and business 
 
-<!--
-**0624106299-cmd/0624106299-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 My Skills
+- Python
+- HTML
+- CSS
+- JavaScript
 
-Here are some ideas to get you started:
+## 🎯 My Goals
+- Improve my coding skills
+- Learn new programming languages
+- Create my own projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ My Interests
+- Technology
+- Music
+- Flamenco
+- Movies
